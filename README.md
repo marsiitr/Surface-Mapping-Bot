@@ -15,10 +15,12 @@ Surface-Mapping-Bot is an autonomous bot which maps the whole surface after all 
 3. Aayushi Srivastava
 
 ### Pre-requisites
-**Software: ** 
+
+**Software:** 
  * Arduino
  * Processing
-**Hardware: ** 
+ 
+**Hardware:** 
  * HC-SR04(Ultrasinic Sensor): For the detection of objects.
  * Servo Motor
  * Stepper Motors(2): Stepper because we want the bot to cover exact specific distance at a time. We can use DC motor with                           ENCODER also.
