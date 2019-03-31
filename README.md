@@ -1,5 +1,7 @@
 # SURFACE MAPPING BOT
-##### Project done in Srishti 2017
+##### Project done in Srishti 2017 (Annual Techno-Hobby Exhibition of IIT Roorkee)
+
+<img src="IMG_20170319_233958.jpg" height=400 width=400/>
 
 ### Abstract
 Surface Mapping Bot is an autonomous bot which can move in a specified area and create a 2D map of the whole surface. It can detect the objects and walls that are around it and send their coordinates to the PC via Bluetooth which displays its map on the screen. Ultrasonic sensor is used for the detection of the objects and "Processing" software is used for displaying the map.
